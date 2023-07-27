@@ -1,4 +1,5 @@
-splays FizzBuzz when the number is a multiple of 3 and 5 fizz for 3 buzz 5
+#!/usr/bin/env bash
+# Displays FizzBuzz when the number is a multiple of 3 and 5 fizz for 3 buzz 5
 for ((n=1;n<=100;n++))
 do
     if ((n % 15 == 0))
