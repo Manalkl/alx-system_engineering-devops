@@ -1,4 +1,5 @@
-t School" 10 times using a while loop
+#!/usr/bin/env bash
+#Prints "Best School" 10 times using a while loop
 i=0
 while [ $i -lt 10 ]
 do
