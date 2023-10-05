@@ -33,13 +33,13 @@ defaults
         errorfile 503 /etc/haproxy/errors/503.http
         errorfile 504 /etc/haproxy/errors/504.http
 
-frontend  ollyjhay-frontend
+frontend  manalkamel-frontend
         bind *:80
         mode http
-        bind *:443 ssl crt /etc/haproxy/certs/www.ollyjhay.tech.pem
+        bind *:443 ssl crt /etc/haproxy/certs/www.manalkamel.tech.pem
         redirect scheme https if !{ ssl_fc }
-        default_backend ollyjhay-backend
-backend ollyjhay-backend
+        default_backend manalkamel-backend
+backend manalkamel-backend
         balance roundrobin
         server 392185-web-01 100.25.47.79:80 check
         server 392185-web-02 100.25.2.123:80 check
