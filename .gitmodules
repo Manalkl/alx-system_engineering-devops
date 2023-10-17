@@ -1,0 +1,6 @@
+[submodule "alx-system_engineering-devops"]
+	path = alx-system_engineering-devops
+	url = https://github.com/Manalkl/alx-system_engineering-devops.git
+[submodule "0x13-firewall"]
+	path = 0x13-firewall
+	url = https://github.com/Manalkl/alx-system_engineering-devops.git
