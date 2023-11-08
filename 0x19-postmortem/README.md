@@ -1,4 +1,6 @@
-{ Incident Postmortem: E-commerce Website Outage }
+### Incident Postmortem: E-commerce Website Outage ###
+
+![postmortem](https://github.com/Manalkl/alx-system_engineering-devops/assets/125568153/7db95b82-7ce5-4b11-81b9-053b05d92688)
 
 # Issue Summary:
 
