@@ -4,7 +4,7 @@
 
 # Issue Summary:
 
-+ Duration: February 15, 2023, 11:30 AM — 2:00 PM (UTC)
++ Duration: November 08, 2023, 11:30 AM — 2:00 PM (gmt+1)
 + Impact: The outage affected our e-commerce website, leading to a 2.5-hour downtime for approximately 30% of our users.
 + Root Cause: The outage was caused by a sudden traffic surge due to a flash sale event that overwhelmed our web servers.
 
